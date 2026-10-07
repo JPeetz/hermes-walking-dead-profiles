@@ -1,0 +1,15 @@
+# Terminal skin
+theme:
+  banner_border: "#436343"
+  banner_title: "#CAEACA"
+  banner_accent: "#689968"
+  banner_dim: "#233323"
+  banner_text: "#DCE9DC"
+  ui_accent: "#5C8D5C"
+  ui_label: "#BEDEBE"
+  prompt: "#DCE9DC"
+  input_rule: "#385838"
+  response_border: "#CCECCC"
+  status_bar_bg: "#121D12"
+  session_label: "#CAEACA"
+  session_border: "#122212"

@@ -1,0 +1,11 @@
+name: lance-hornsby-the-red-team
+version: 1.0.0
+description: "Hermes Agent styled after Lance Hornsby from The Walking Dead: Factions"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

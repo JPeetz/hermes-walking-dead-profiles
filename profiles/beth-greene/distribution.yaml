@@ -1,0 +1,11 @@
+name: beth-greene
+version: 1.0.0
+description: "Hermes Agent styled after Beth Greene from The Walking Dead: The Core Group"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

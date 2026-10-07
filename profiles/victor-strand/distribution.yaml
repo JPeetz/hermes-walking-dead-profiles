@@ -1,0 +1,11 @@
+name: victor-strand
+version: 1.0.0
+description: "Hermes Agent styled after Victor Strand from The Walking Dead: Fear the Walking Dead"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

@@ -1,0 +1,255 @@
+{
+  "franchise": "The Walking Dead",
+  "profiles": [
+    {
+      "slug": "rick-grimes",
+      "name": "Rick Grimes",
+      "series": "Group"
+    },
+    {
+      "slug": "michonne",
+      "name": "Michonne",
+      "series": "Group"
+    },
+    {
+      "slug": "carl-grimes",
+      "name": "Carl Grimes",
+      "series": "Group"
+    },
+    {
+      "slug": "carol-peletier",
+      "name": "Carol Peletier",
+      "series": "Group"
+    },
+    {
+      "slug": "daryl-dixon",
+      "name": "Daryl Dixon",
+      "series": "Group"
+    },
+    {
+      "slug": "glenn-rhee",
+      "name": "Glenn Rhee",
+      "series": "Group"
+    },
+    {
+      "slug": "maggie-greene",
+      "name": "Maggie Greene",
+      "series": "Group"
+    },
+    {
+      "slug": "rosita-esposito",
+      "name": "Rosita Esposito",
+      "series": "Group"
+    },
+    {
+      "slug": "deanna-monroe",
+      "name": "Deanna Monroe",
+      "series": "leadership"
+    },
+    {
+      "slug": "abraham-ford",
+      "name": "Abraham Ford",
+      "series": "leadership"
+    },
+    {
+      "slug": "sasha-williams",
+      "name": "Sasha Williams",
+      "series": "leadership"
+    },
+    {
+      "slug": "eugene-porter",
+      "name": "Eugene Porter",
+      "series": "leadership"
+    },
+    {
+      "slug": "aaron",
+      "name": "Aaron",
+      "series": "leadership"
+    },
+    {
+      "slug": "negan-the-red-team",
+      "name": "Negan",
+      "series": "Saviors"
+    },
+    {
+      "slug": "the-governor-the-red-team",
+      "name": "The Governor",
+      "series": "Saviors"
+    },
+    {
+      "slug": "shane-walsh-the-red-team",
+      "name": "Shane Walsh",
+      "series": "Saviors"
+    },
+    {
+      "slug": "alpha-the-red-team",
+      "name": "Alpha",
+      "series": "Saviors"
+    },
+    {
+      "slug": "simon-the-red-team",
+      "name": "Simon",
+      "series": "Saviors"
+    },
+    {
+      "slug": "morgan-jones",
+      "name": "Morgan Jones",
+      "series": "Survivor"
+    },
+    {
+      "slug": "herschel-greene",
+      "name": "Herschel Greene",
+      "series": "Survivor"
+    },
+    {
+      "slug": "dwight",
+      "name": "Dwight",
+      "series": "Survivor"
+    },
+    {
+      "slug": "judith-grimes",
+      "name": "Judith Grimes",
+      "series": "Survivor"
+    },
+    {
+      "slug": "tyreese",
+      "name": "Tyreese",
+      "series": "Group"
+    },
+    {
+      "slug": "beth-greene",
+      "name": "Beth Greene",
+      "series": "Group"
+    },
+    {
+      "slug": "bob-stookey",
+      "name": "Bob Stookey",
+      "series": "Group"
+    },
+    {
+      "slug": "tara-chambler",
+      "name": "Tara Chambler",
+      "series": "Group"
+    },
+    {
+      "slug": "noah",
+      "name": "Noah",
+      "series": "Group"
+    },
+    {
+      "slug": "jesus-paul-monroe",
+      "name": "Jesus Paul Monroe",
+      "series": "Group"
+    },
+    {
+      "slug": "siddiq",
+      "name": "Siddiq",
+      "series": "Group"
+    },
+    {
+      "slug": "ezekiel-sutton",
+      "name": "Ezekiel Sutton",
+      "series": "leadership"
+    },
+    {
+      "slug": "jerry",
+      "name": "Jerry",
+      "series": "leadership"
+    },
+    {
+      "slug": "yumiko-okumura",
+      "name": "Yumiko Okumura",
+      "series": "leadership"
+    },
+    {
+      "slug": "magna",
+      "name": "Magna",
+      "series": "leadership"
+    },
+    {
+      "slug": "princess-juanita",
+      "name": "Princess Juanita",
+      "series": "leadership"
+    },
+    {
+      "slug": "connie",
+      "name": "Connie",
+      "series": "Survivor"
+    },
+    {
+      "slug": "kelly",
+      "name": "Kelly",
+      "series": "Survivor"
+    },
+    {
+      "slug": "lydia",
+      "name": "Lydia",
+      "series": "Survivor"
+    },
+    {
+      "slug": "mercer",
+      "name": "Mercer",
+      "series": "Survivor"
+    },
+    {
+      "slug": "grace",
+      "name": "Grace",
+      "series": "Survivor"
+    },
+    {
+      "slug": "anne-jadis",
+      "name": "Anne Jadis",
+      "series": "Survivor"
+    },
+    {
+      "slug": "beta-the-red-team",
+      "name": "Beta",
+      "series": "Saviors"
+    },
+    {
+      "slug": "pamela-milton-the-red-team",
+      "name": "Pamela Milton",
+      "series": "Saviors"
+    },
+    {
+      "slug": "lance-hornsby-the-red-team",
+      "name": "Lance Hornsby",
+      "series": "Saviors"
+    },
+    {
+      "slug": "whisperer-gamma-the-red-team",
+      "name": "Whisperer Gamma",
+      "series": "Saviors"
+    },
+    {
+      "slug": "cobb-the-red-team",
+      "name": "Cobb",
+      "series": "Saviors"
+    },
+    {
+      "slug": "madison-clark",
+      "name": "Madison Clark",
+      "series": "FearTWD"
+    },
+    {
+      "slug": "nick-clark",
+      "name": "Nick Clark",
+      "series": "FearTWD"
+    },
+    {
+      "slug": "alicia-clark",
+      "name": "Alicia Clark",
+      "series": "FearTWD"
+    },
+    {
+      "slug": "victor-strand",
+      "name": "Victor Strand",
+      "series": "FearTWD"
+    },
+    {
+      "slug": "daniel-salas",
+      "name": "Daniel Salas",
+      "series": "FearTWD"
+    }
+  ]
+}
